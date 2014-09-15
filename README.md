@@ -2,4 +2,5 @@ testBrowser
 ===========
 
 browsertest
-i love :coffee:,,:dancer:,and :star:.
+
+i love :coffee:,:dancer:,and :star:.
